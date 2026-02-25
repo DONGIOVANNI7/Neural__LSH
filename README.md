@@ -4,6 +4,8 @@
 
 Neural LSH implementation for high-dimensional Approximate Nearest Neighbor (ANN) search using PyTorch, NumPy, and KaHIP. Builds on Assignment 1's C++ ANN methods to construct k-NN graphs for efficient space partitioning and MLP-based query routing.
 
+For a detailed analysis visit the pdf reports!
+
 ## Quick Start
 
 ```bash
